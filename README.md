@@ -21,4 +21,4 @@
 
 ## 🧑‍💻 Author 作者
 - **Yizhuo Shen**  
-- Research log in biomedical data & visualization: [YizhuoShen.github.io](https://github.com/YizhuoShen/YizhuoShen.github.io)  
+- Research log in biomedical data & visualization: [YizhuoShen.github.io]([https://github.com/YizhuoShen/YizhuoShen.github.io](https://github.com/lvoryLexicon))  
